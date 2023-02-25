@@ -1,8 +1,8 @@
 image.png
 
-#Volkova Liudmila
+# Volkova Liudmila
 
-##manual software tester
+## manual software tester
 
 I live in Irkutsk
 
@@ -10,12 +10,12 @@ I live in Irkutsk
 
 My Skills
 
-*Preparation of checklists and test cases
+### *Preparation of checklists and test cases
 
-*Functional and load testing
+### *Functional and load testing
 
-Git b GitHub skills
+### *Git b GitHub skills
 
-Ability to work in a team.
+### *Ability to work in a team.
 
-And just a desire to work and gain other valuable skills.
+### *And just a desire to work and gain other valuable skills.
