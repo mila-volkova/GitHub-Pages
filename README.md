@@ -15,7 +15,7 @@ My Skills
 
 ### *Functional and load testing
 
-### *Git b GitHub skills
+### *Git, GitHub skills
 
 ### *Ability to work in a team.
 
